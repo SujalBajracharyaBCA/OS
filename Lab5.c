@@ -51,7 +51,7 @@ int main()
 
                 for(j=0;j<m;j++)
                 {
-                    if(need[i][j]>avail[i])
+                    if(need[i][j]>avail[j])
                     {
                         flag=1;
                         break;
