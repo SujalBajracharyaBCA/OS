@@ -86,8 +86,8 @@ int main()
         {
             printf("P%d ->",ans[i]);
              printf("P%d ->",ans[n-1]);
-             printf("\n Deadlock will not occur \n");
         }
+        printf("\n Deadlock will not occur \n");
     }
         else
         {
